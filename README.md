@@ -1,3 +1,3 @@
 # coursera_getting-started
 
-## editing the file
+## Peer-graded Assignment: Create and Share Your Jupyter Notebook
